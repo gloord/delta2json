@@ -1,0 +1,17 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Gloord\DeltaParser\Command\ParseCommand;
+
+/**
+ * PHP CLI application for converting DELTA (DEscription Language for TAxonomy) files into JSON format.
+ * Usage: $ ./bin/delta2json parse [path to directory with delta files] [output path (optional)]
+ */
+
+$application = new Application();
+
+$application->add(new ParseCommand());
+$application->run();

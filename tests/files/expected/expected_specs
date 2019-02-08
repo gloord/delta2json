@@ -1,0 +1,408 @@
+{
+    "NUMBER_OF_CHARACTERS": "89",
+    "MAXIMUM_NUMBER_OF_STATES": "15",
+    "MAXIMUM_NUMBER_OF_ITEMS": "14",
+    "CHARACTER_TYPES": {
+        "1": {
+            "characterId": 1,
+            "characterType": "TE"
+        },
+        "3": {
+            "characterId": 3,
+            "characterType": "RN"
+        },
+        "7": {
+            "characterId": 7,
+            "characterType": "OM"
+        },
+        "8": {
+            "characterId": 8,
+            "characterType": "RN"
+        },
+        "11": {
+            "characterId": 11,
+            "characterType": "OM"
+        },
+        "25": {
+            "characterId": 25,
+            "characterType": "TE"
+        },
+        "26": {
+            "characterId": 26,
+            "characterType": "RN"
+        },
+        "27": {
+            "characterId": 27,
+            "characterType": "OM"
+        },
+        "33": {
+            "characterId": 33,
+            "characterType": "OM"
+        },
+        "38": {
+            "characterId": 38,
+            "characterType": "IN"
+        },
+        "41": {
+            "characterId": 41,
+            "characterType": "IN"
+        },
+        "44": {
+            "characterId": 44,
+            "characterType": "IN"
+        },
+        "47": {
+            "characterId": 47,
+            "characterType": "OM"
+        },
+        "48": {
+            "characterId": 48,
+            "characterType": "IN"
+        },
+        "51": {
+            "characterId": 51,
+            "characterType": "OM"
+        },
+        "54": {
+            "characterId": 54,
+            "characterType": "IN"
+        },
+        "56": {
+            "characterId": 56,
+            "characterType": "OM"
+        },
+        "60": {
+            "characterId": 60,
+            "characterType": "IN"
+        },
+        "62": {
+            "characterId": 62,
+            "characterType": "IN"
+        },
+        "64": {
+            "characterId": 64,
+            "characterType": "OM"
+        },
+        "85": {
+            "characterId": 85,
+            "characterType": "IN"
+        },
+        "87": {
+            "characterId": 87,
+            "characterType": "TE"
+        },
+        "88": {
+            "characterId": 88,
+            "characterType": "TE"
+        },
+        "89": {
+            "characterId": 89,
+            "characterType": "TE"
+        }
+    },
+    "NUMBERS_OF_STATES": [
+        {
+            "characterId": 7,
+            "numberOfCharacterStates": 7
+        },
+        {
+            "characterId": 11,
+            "numberOfCharacterStates": 4
+        },
+        {
+            "characterId": 12,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 13,
+            "numberOfCharacterStates": 5
+        },
+        {
+            "characterId": 18,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 23,
+            "numberOfCharacterStates": 4
+        },
+        {
+            "characterId": 24,
+            "numberOfCharacterStates": 4
+        },
+        {
+            "characterId": 27,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 28,
+            "numberOfCharacterStates": 4
+        },
+        {
+            "characterId": 33,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 40,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 47,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 49,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 51,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 56,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 63,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 64,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 67,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 69,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 74,
+            "numberOfCharacterStates": 3
+        },
+        {
+            "characterId": 78,
+            "numberOfCharacterStates": 5
+        },
+        {
+            "characterId": 79,
+            "numberOfCharacterStates": 6
+        },
+        {
+            "characterId": 80,
+            "numberOfCharacterStates": 7
+        },
+        {
+            "characterId": 81,
+            "numberOfCharacterStates": 15
+        },
+        {
+            "characterId": 82,
+            "numberOfCharacterStates": 12
+        },
+        {
+            "characterId": 83,
+            "numberOfCharacterStates": 4
+        },
+        {
+            "characterId": 84,
+            "numberOfCharacterStates": 6
+        },
+        {
+            "characterId": 86,
+            "numberOfCharacterStates": 6
+        }
+    ],
+    "IMPLICIT_VALUES": [
+        {
+            "characterId": 9,
+            "characterState": 2
+        },
+        {
+            "characterId": 10,
+            "characterState": 1
+        },
+        {
+            "characterId": 16,
+            "characterState": 2
+        },
+        {
+            "characterId": 20,
+            "characterState": 2
+        },
+        {
+            "characterId": 32,
+            "characterState": 1
+        },
+        {
+            "characterId": 65,
+            "characterState": 2
+        },
+        {
+            "characterId": 67,
+            "characterState": 3
+        },
+        {
+            "characterId": 71,
+            "characterState": 2
+        },
+        {
+            "characterId": 72,
+            "characterState": 2
+        },
+        {
+            "characterId": 75,
+            "characterState": 2
+        },
+        {
+            "characterId": 77,
+            "characterState": 2
+        }
+    ],
+    "DEPENDENT_CHARACTERS": [
+        {
+            "characterId": 10,
+            "characterState": 2,
+            "dependentCharacter": [
+                11
+            ]
+        },
+        {
+            "characterId": 16,
+            "characterState": 2,
+            "dependentCharacter": [
+                17
+            ]
+        },
+        {
+            "characterId": 20,
+            "characterState": 2,
+            "dependentCharacter": [
+                21,
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "characterId": 32,
+            "characterState": 2,
+            "dependentCharacter": [
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "characterId": 39,
+            "characterState": 1,
+            "dependentCharacter": [
+                40,
+                41,
+                42,
+                43
+            ]
+        },
+        {
+            "characterId": 47,
+            "characterState": 1,
+            "dependentCharacter": [
+                48,
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "characterId": 55,
+            "characterState": 2,
+            "dependentCharacter": [
+                56
+            ]
+        },
+        {
+            "characterId": 57,
+            "characterState": 2,
+            "dependentCharacter": [
+                58,
+                59
+            ]
+        },
+        {
+            "characterId": 68,
+            "characterState": 2,
+            "dependentCharacter": [
+                69
+            ]
+        },
+        {
+            "characterId": 78,
+            "characterState": 1,
+            "dependentCharacter": [
+                81,
+                82,
+                83,
+                84
+            ]
+        },
+        {
+            "characterId": 78,
+            "characterState": 2,
+            "dependentCharacter": [
+                80,
+                82,
+                83,
+                84
+            ]
+        },
+        {
+            "characterId": 78,
+            "characterState": 3,
+            "dependentCharacter": [
+                79,
+                80,
+                81,
+                83,
+                84
+            ]
+        },
+        {
+            "characterId": 78,
+            "characterState": 4,
+            "dependentCharacter": [
+                79,
+                80,
+                81,
+                82,
+                84
+            ]
+        },
+        {
+            "characterId": 78,
+            "characterState": 5,
+            "dependentCharacter": [
+                80,
+                81,
+                82,
+                83
+            ]
+        }
+    ],
+    "MANDATORY_CHARACTERS": [
+        12,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        89
+    ]
+}

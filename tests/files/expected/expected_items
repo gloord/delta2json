@@ -1,0 +1,3559 @@
+[
+    {
+        "itemId": 1,
+        "name": "<i>Agrostis<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Agraulus<\/i> P. Beauv., <i>Agrestis<\/i> Bub., <i>Anomalotis<\/i> Steud., <i>Bromidium<\/i> Nees, <i>Candollea<\/i> Steud., <i>Chaetotropis<\/i> Kunth, <i>Decandolea<\/i> Batard, <i>Didymochaeta<\/i> Steud., <i>Lachnagrostis<\/i> Trin., <i>Neoschischkinia<\/i> Tsvelev, <i>Notonema<\/i> Raf., <i>Pentatherum<\/i> Nabelek, <i>Podagrostis<\/i> (Griseb.) Scribn., <i>Senisetum<\/i> Koidz., <i>Trichodium<\/i> Michaux, <i>Vilfa<\/i> Adans.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 3,
+                "characterText": "<mostly>",
+                "characterState": "(3-)5-100"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 5,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1"
+            },
+            {
+                "characterId": 8,
+                "characterState": "0.2-10"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1\/2<e.g., <i>Bromidium<\/i>>"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "0.8-4"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 31,
+                "characterState": "1<the hairs less than 0.5 mm long>\/2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2"
+            },
+            {
+                "characterId": 35,
+                "characterState": "2"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 38,
+                "characterState": "1"
+            },
+            {
+                "characterId": 39,
+                "characterState": "1"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1-2<usually truncate or emarginate, sometimes toothed via excurrent veins>"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 48,
+                "characterText": "<when present,>",
+                "characterState": "1\/3<<i>Bromidium<\/i>>\/5<rarely>"
+            },
+            {
+                "characterId": 49,
+                "characterState": "2"
+            },
+            {
+                "characterId": 50,
+                "characterState": "2"
+            },
+            {
+                "characterId": 51,
+                "characterState": "1-2\/3<<2%> rarely>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 53,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3-5"
+            },
+            {
+                "characterId": 55,
+                "characterText": "<nearly always>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "2"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "1"
+            },
+            {
+                "characterId": 79,
+                "characterState": "2"
+            },
+            {
+                "characterId": 80,
+                "characterState": "4"
+            },
+            {
+                "characterId": 85,
+                "characterText": "<about>",
+                "characterState": "220"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&4&5&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<agrostis>"
+            }
+        ]
+    },
+    {
+        "itemId": 2,
+        "name": "<i>Andropogon<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Anatherum<\/i> P. Beauv., <i>Arthrostachys<\/i> Desv., <i>Arthrolophis<\/i> (Trin.) Chiov., <i>Dimeiostemon<\/i> Raf., <i>Eriopodium<\/i> Hochst., <i>Heterochloa<\/i> Desv., <i>Homoeatherum<\/i> Nees, <i>Leptopogon<\/i> Roberty>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "8-250(-430)"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 5,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1"
+            },
+            {
+                "characterId": 9,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "2\/5<usually with paired or digitate \u2018racemes\u2019, these often spatheate and aggregated into false panicles>"
+            },
+            {
+                "characterId": 15,
+                "characterState": "1<often>\/2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "1"
+            },
+            {
+                "characterId": 17,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "2"
+            },
+            {
+                "characterId": 20,
+                "characterState": "1"
+            },
+            {
+                "characterId": 21,
+                "characterState": "1"
+            },
+            {
+                "characterId": 22,
+                "characterState": "2"
+            },
+            {
+                "characterId": 23,
+                "characterState": "1"
+            },
+            {
+                "characterId": 24,
+                "characterState": "3\/4<sometimes reduced to their pedicels>"
+            },
+            {
+                "characterId": 25,
+                "characterText": "<the pedicelled spikelets male or barren, usually awnless, occasionally suppressed>"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 28,
+                "characterState": "3"
+            },
+            {
+                "characterId": 29,
+                "characterState": "-"
+            },
+            {
+                "characterId": 30,
+                "characterState": "2"
+            },
+            {
+                "characterId": 31,
+                "characterState": "1"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2"
+            },
+            {
+                "characterId": 35,
+                "characterState": "2"
+            },
+            {
+                "characterId": 36,
+                "characterState": "1\/2<G<sup>2<\/sup> sometimes aristate>"
+            },
+            {
+                "characterId": 38,
+                "characterState": "1-3"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "1"
+            },
+            {
+                "characterId": 41,
+                "characterState": "1"
+            },
+            {
+                "characterId": 42,
+                "characterState": "2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "2<usually bifid>"
+            },
+            {
+                "characterId": 47,
+                "characterState": "3"
+            },
+            {
+                "characterId": 48,
+                "characterState": "1"
+            },
+            {
+                "characterId": 49,
+                "characterState": "1"
+            },
+            {
+                "characterId": 50,
+                "characterState": "2"
+            },
+            {
+                "characterId": 51,
+                "characterState": "2-3"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "1-3"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "3<hyaline>"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1<tiny>"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1"
+            },
+            {
+                "characterId": 59,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "1-3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1"
+            },
+            {
+                "characterId": 69,
+                "characterState": "3<3 species>"
+            },
+            {
+                "characterId": 70,
+                "characterState": "2"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "2"
+            },
+            {
+                "characterId": 75,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "5"
+            },
+            {
+                "characterId": 79,
+                "characterState": "6"
+            },
+            {
+                "characterId": 84,
+                "characterState": "5"
+            },
+            {
+                "characterId": 85,
+                "characterText": "<about>",
+                "characterState": "100"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&4"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<andropog>"
+            }
+        ]
+    },
+    {
+        "itemId": 3,
+        "name": "<i>Anisopogon<\/i> <R.Br.>",
+        "characterStates": [
+            {
+                "characterId": 2,
+                "characterText": "<oat-like>",
+                "characterState": "2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "60-110"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "2"
+            },
+            {
+                "characterId": 8,
+                "characterState": "2-3"
+            },
+            {
+                "characterId": 11,
+                "characterState": "2<the membrane short to relatively long, hairy on the back>"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "40-60"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1<the slender prolongation 6-8 mm long, in the palea groove>"
+            },
+            {
+                "characterId": 31,
+                "characterState": "1<about 6 mm long, with dense, white hairs>"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2<the upper slightly longer>"
+            },
+            {
+                "characterId": 35,
+                "characterState": "2"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "2"
+            },
+            {
+                "characterId": 38,
+                "characterState": "7-9"
+            },
+            {
+                "characterId": 39,
+                "characterState": "1\/2<usually with a single, abortive floret>"
+            },
+            {
+                "characterId": 40,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "3"
+            },
+            {
+                "characterId": 48,
+                "characterState": "3"
+            },
+            {
+                "characterId": 49,
+                "characterState": "1"
+            },
+            {
+                "characterId": 50,
+                "characterState": "2"
+            },
+            {
+                "characterId": 51,
+                "characterState": "3<up to 8 cm long>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2<rounded on the back>"
+            },
+            {
+                "characterId": 53,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1<narrow, lanceolate>"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "2<two \u2018stipoid\u2019 and larger, the third smaller and flimsier>"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "2<sparingly so, towards the apex>"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2\/3"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1"
+            },
+            {
+                "characterId": 64,
+                "characterState": "2"
+            },
+            {
+                "characterId": 66,
+                "characterState": "2"
+            },
+            {
+                "characterId": 67,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "2"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "3"
+            },
+            {
+                "characterId": 82,
+                "characterState": "2"
+            },
+            {
+                "characterId": 85,
+                "characterState": "1"
+            },
+            {
+                "characterId": 86,
+                "characterState": "5"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<anisopog>"
+            }
+        ]
+    },
+    {
+        "itemId": 4,
+        "name": "<i>Bambusa<\/i> <Schreber>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Arundarbor<\/i> Kuntze, <i>Bonia<\/i> Balansa, <i>Criciuma<\/i> Soderstrom & Londo\u00f1o, <i>Dendrocalamopsis<\/i> (Chia & Fung) Keng f., <i>Eremocaulon<\/i> Soderstrom & Londo\u00f1o, <i>Guadua<\/i> Kunth, <i>Ischurochloa<\/i> B\u00fcse, <i>Leleba<\/i> Nakai, <i>Lingnania<\/i> McClure, <i>Tetragonocalamus<\/i> Nakai \u2013 cf. Clayton and Renvoize (1986). Soderstrom and Ellis (1987) refer <i>Criciuma<\/i>, <i>Eremocaulon<\/i> and <i>Guadua<\/i> to their subtribe Guaduinae, along with <i>Olmeca<\/i>, and place <i>Tetragonocalamus<\/i> in the Arundinariinae, but revised generic descriptions adequate for the present purpose are not available.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "(200-)500-3500"
+            },
+            {
+                "characterId": 4,
+                "characterState": "1"
+            },
+            {
+                "characterId": 5,
+                "characterState": "1"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 9,
+                "characterState": "1"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterText": "<of pseudospikelets, these solitary or in tufts, fascicles or capitula on leafless branches>"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1"
+            },
+            {
+                "characterId": 15,
+                "characterState": "1"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "10-80"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1"
+            },
+            {
+                "characterId": 29,
+                "characterState": "2"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "1"
+            },
+            {
+                "characterId": 38,
+                "characterState": "7-18"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "2\/3"
+            },
+            {
+                "characterId": 41,
+                "characterState": "0-3<? \u2013 fewer than 4>"
+            },
+            {
+                "characterId": 42,
+                "characterState": "2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1-20<\u2013\u2018many\u2019>"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 46,
+                "characterState": "2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1<usually>\/2<<i>Guadua<\/i>>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "9-22"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "2"
+            },
+            {
+                "characterId": 59,
+                "characterState": "1"
+            },
+            {
+                "characterId": 60,
+                "characterState": "6"
+            },
+            {
+                "characterId": 61,
+                "characterState": "2"
+            },
+            {
+                "characterId": 62,
+                "characterState": "3<usually?>"
+            },
+            {
+                "characterId": 66,
+                "characterState": "2"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 71,
+                "characterState": "1"
+            },
+            {
+                "characterId": 72,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "3"
+            },
+            {
+                "characterId": 76,
+                "characterState": "2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "2"
+            },
+            {
+                "characterId": 79,
+                "characterState": "4"
+            },
+            {
+                "characterId": 81,
+                "characterState": "15"
+            },
+            {
+                "characterId": 85,
+                "characterText": "<about>",
+                "characterState": "120"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&5"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<bambusa>"
+            }
+        ]
+    },
+    {
+        "itemId": 5,
+        "name": "<i>Chloris<\/i> <O. Swartz>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Actinochloris<\/i> Steud., <i>Agrostomia<\/i> Cerv., <i>Apogon<\/i> Steud., <i>Chloridopsis<\/i> Hack., <i>Chloropsis<\/i> Kuntze, <i>Chlorostis<\/i> Raf., <i>Geopogon<\/i> Steud., <i>Heterolepis<\/i> Boiss., <i>Leptochloris<\/i> Kuntze, <i>Phacellaria<\/i> Steud., <i>Trichloris<\/i> Benth.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "10-300"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1"
+            },
+            {
+                "characterId": 11,
+                "characterState": "2-3"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "2<rarely a single raceme>"
+            },
+            {
+                "characterId": 14,
+                "characterState": "-"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 19,
+                "characterState": "1<on the dorsiventral rachis>"
+            },
+            {
+                "characterId": 20,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "1.8-5.5"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1<the glumes usually persistent>"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1"
+            },
+            {
+                "characterId": 31,
+                "characterState": "1<usually minute>"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "1<divergent>"
+            },
+            {
+                "characterId": 35,
+                "characterText": "<(the longer) usually>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 38,
+                "characterState": "1-4"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "2<at least one of these conspicuous \u2013 the spikelet \u2018with two florets\u2019>"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1<rarely 2>"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1<truncate>\/2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "3"
+            },
+            {
+                "characterId": 48,
+                "characterState": "1<usually>\/3<<5%>>"
+            },
+            {
+                "characterId": 49,
+                "characterState": "1\/3"
+            },
+            {
+                "characterId": 50,
+                "characterState": "1"
+            },
+            {
+                "characterId": 52,
+                "characterState": "1"
+            },
+            {
+                "characterId": 53,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "1-7"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 67,
+                "characterState": "1-3"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1"
+            },
+            {
+                "characterId": 69,
+                "characterState": "1<6 species>"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 75,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "4"
+            },
+            {
+                "characterId": 83,
+                "characterState": "4"
+            },
+            {
+                "characterId": 85,
+                "characterText": "<about>",
+                "characterState": "55"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&5"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<chloris>"
+            }
+        ]
+    },
+    {
+        "itemId": 6,
+        "name": "<i>Cynodon<\/i> <Rich.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Capriola<\/i> Adans., <i>Dactilon<\/i> Vill., <i>Fibichia<\/i> Koel.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "4-60(-100)"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1"
+            },
+            {
+                "characterId": 10,
+                "characterState": "1"
+            },
+            {
+                "characterId": 11,
+                "characterState": "2<very short>\/3"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "2"
+            },
+            {
+                "characterId": 14,
+                "characterState": "-"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "1"
+            },
+            {
+                "characterId": 19,
+                "characterState": "1"
+            },
+            {
+                "characterId": 20,
+                "characterState": "-"
+            },
+            {
+                "characterId": 26,
+                "characterState": "1.7-3"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1\/2<<i>C. incompletus<\/i>>"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "1"
+            },
+            {
+                "characterId": 38,
+                "characterState": "1\/1-3"
+            },
+            {
+                "characterId": 39,
+                "characterState": "1<normally>\/2"
+            },
+            {
+                "characterId": 40,
+                "characterText": "<(when present)>",
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 46,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1"
+            },
+            {
+                "characterId": 52,
+                "characterState": "1"
+            },
+            {
+                "characterId": 54,
+                "characterState": "1-4"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "2"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 67,
+                "characterState": "3"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1"
+            },
+            {
+                "characterId": 69,
+                "characterState": "2<2 species>"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 76,
+                "characterState": "2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "4"
+            },
+            {
+                "characterId": 83,
+                "characterState": "4"
+            },
+            {
+                "characterId": 85,
+                "characterState": "10"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&4&5&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<cynodon>"
+            }
+        ]
+    },
+    {
+        "itemId": 7,
+        "name": "<i>Echinochloa<\/i> <P. Beauv.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Ornithospermum<\/i> Dumoulin, <i>Tema<\/i> Adans.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "40-360"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 5,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 10,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 11,
+                "characterText": "<when present,>",
+                "characterState": "3"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "2<the spikelets often hispid>"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterText": "<paired, or clustered in little secondary racemelets>"
+            },
+            {
+                "characterId": 19,
+                "characterState": "1"
+            },
+            {
+                "characterId": 20,
+                "characterState": "-"
+            },
+            {
+                "characterId": 26,
+                "characterState": "2.3-7"
+            },
+            {
+                "characterId": 27,
+                "characterState": "3"
+            },
+            {
+                "characterId": 28,
+                "characterState": "3"
+            },
+            {
+                "characterId": 30,
+                "characterState": "2"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "1"
+            },
+            {
+                "characterId": 35,
+                "characterText": "<(the upper)>",
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 36,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 38,
+                "characterState": "5\/7"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "1"
+            },
+            {
+                "characterId": 41,
+                "characterState": "1"
+            },
+            {
+                "characterId": 42,
+                "characterState": "1<<10%> rarely>\/2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1<obtuse to apiculate>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 53,
+                "characterState": "1"
+            },
+            {
+                "characterId": 54,
+                "characterState": "5"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1<the tip reflexed>"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "2"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1"
+            },
+            {
+                "characterId": 69,
+                "characterState": "3<3 species>"
+            },
+            {
+                "characterId": 70,
+                "characterState": "2"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "2"
+            },
+            {
+                "characterId": 75,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1"
+            },
+            {
+                "characterId": 78,
+                "characterState": "5"
+            },
+            {
+                "characterId": 79,
+                "characterState": "5"
+            },
+            {
+                "characterId": 84,
+                "characterState": "2"
+            },
+            {
+                "characterId": 85,
+                "characterState": "30-40"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&5"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<echinoch>"
+            }
+        ]
+    },
+    {
+        "itemId": 8,
+        "name": "<i>Eleusine<\/i> <Gaertn.>",
+        "characterStates": [
+            {
+                "characterId": 2,
+                "characterState": "1\/2<the culms flattened>"
+            },
+            {
+                "characterId": 3,
+                "characterState": "10-150"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1"
+            },
+            {
+                "characterId": 11,
+                "characterState": "2"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "2"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1\/2<sometimes forming a capitulum>"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 19,
+                "characterState": "1"
+            },
+            {
+                "characterId": 20,
+                "characterState": "-"
+            },
+            {
+                "characterId": 26,
+                "characterState": "3.5-11"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1\/4<<i>E. coracana<\/i>>"
+            },
+            {
+                "characterId": 29,
+                "characterState": "2<except in <i>E. coracana<\/i>>"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "1"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "1"
+            },
+            {
+                "characterId": 38,
+                "characterState": "3-5(-7)"
+            },
+            {
+                "characterId": 39,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "3-15"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 46,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 52,
+                "characterState": "1"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1\/3"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1<0.9-2 mm long>"
+            },
+            {
+                "characterId": 65,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 67,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1"
+            },
+            {
+                "characterId": 69,
+                "characterState": "2<2 species>"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "4"
+            },
+            {
+                "characterId": 83,
+                "characterState": "4"
+            },
+            {
+                "characterId": 85,
+                "characterState": "9"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&4&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<eleusine>"
+            }
+        ]
+    },
+    {
+        "itemId": 9,
+        "name": "<i>Festuca<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Amphigenes<\/i> Janka, <i>Anatherum<\/i> Nabelek, <i>Argillochloa<\/i> Weber, <i>Bucetum<\/i> Parnell, <i>Drymochloa<\/i> Holub, <i>Drymonaetes<\/i> Fourr., <i>Festucaria<\/i> Fabric., <i>Gnomonia<\/i> Lunell, <i>Gramen<\/i> Krause, <i>Hellerochloa<\/i> Rauschert, <i>Leiopoa<\/i> Ohwi, <i>Lojaconoa<\/i> Gand., <i>Nabelekia<\/i> Roshev., <i>Wasatchia<\/i> M. E. Jones>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "2-200"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 5,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 8,
+                "characterState": "0.2-15"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1<sometimes ciliolate>"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2<<i>Leucopoa<\/i> being excluded>"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1<usually>\/2<<15%> rarely>"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "3-20"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1"
+            },
+            {
+                "characterId": 29,
+                "characterState": "2"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "1"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 38,
+                "characterState": "(1-)3-5"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "2-14<rarely 1>"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 46,
+                "characterText": "<when entire>",
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 48,
+                "characterText": "<when present,>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 49,
+                "characterState": "1\/3"
+            },
+            {
+                "characterId": 50,
+                "characterState": "1"
+            },
+            {
+                "characterId": 51,
+                "characterState": "1<usually>\/2<sometimes, rarely somewhat longer>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3-7"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "2"
+            },
+            {
+                "characterId": 59,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 66,
+                "characterState": "2<usually about as long as the grain, but sometimes elliptical and only half as long>"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "1"
+            },
+            {
+                "characterId": 79,
+                "characterState": "2"
+            },
+            {
+                "characterId": 80,
+                "characterState": "7"
+            },
+            {
+                "characterId": 85,
+                "characterState": "360<or more>"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&4&5&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project; Aiken <i>et al.<\/i> 1985>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<festuca>"
+            }
+        ]
+    },
+    {
+        "itemId": 10,
+        "name": "<i>Oryza<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Padia<\/i> Moritzi>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "30-300"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1-2"
+            },
+            {
+                "characterId": 9,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5<axes usually wavy, the spikelets appressed>\/2<the primary branches often reduced to racemes>"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "4-12"
+            },
+            {
+                "characterId": 27,
+                "characterText": "<strongly>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1<i.e. above the pedicel cup representing them>\/-"
+            },
+            {
+                "characterId": 30,
+                "characterState": "2"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 32,
+                "characterState": "1-2<represented only by a small 2-lobed cupule>"
+            },
+            {
+                "characterId": 33,
+                "characterText": "<if present,>",
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 38,
+                "characterState": "0"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "1"
+            },
+            {
+                "characterId": 41,
+                "characterState": "2<small, vestigial, no more than half the spikelet length, sometimes only bristles>"
+            },
+            {
+                "characterId": 42,
+                "characterState": "2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 46,
+                "characterState": "1"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 48,
+                "characterText": "<when present,>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 49,
+                "characterState": "3"
+            },
+            {
+                "characterId": 50,
+                "characterState": "1"
+            },
+            {
+                "characterId": 51,
+                "characterState": "1-3"
+            },
+            {
+                "characterId": 52,
+                "characterText": "<strongly>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3-9"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1<but narrower than the lemma>"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "2<but the membranous flange may be narrow>"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "6"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1\/2\/3"
+            },
+            {
+                "characterId": 66,
+                "characterState": "2"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 71,
+                "characterState": "1"
+            },
+            {
+                "characterId": 72,
+                "characterState": "2"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "3"
+            },
+            {
+                "characterId": 76,
+                "characterState": "2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "2"
+            },
+            {
+                "characterId": 79,
+                "characterState": "3"
+            },
+            {
+                "characterId": 81,
+                "characterState": "1"
+            },
+            {
+                "characterId": 85,
+                "characterState": "25"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<oryza>"
+            }
+        ]
+    },
+    {
+        "itemId": 11,
+        "name": "<i>Panicum<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Chasea<\/i> Nieuw., <i>Coleataenia<\/i> Griseb., <i>Dileucaden<\/i> (Raf.) Steud., <i>Eatonia<\/i> Raf., <i>Eriolytrum<\/i> Kunth, <i>Milium<\/i> Adans., <i>Monachne<\/i> P. Beauv., <i>Phanopyrum<\/i> (Raf.) Nash, <i>Polyneura<\/i> Peter, <i>Psilochloa<\/i> Launert, <i>Setiacis<\/i> S.L. Chen and Y.X. Jin (? \u2013 original description inadequate)>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2<but no overwintering rosette \u2013 by contrast with <i>Dichanthelium<\/i>>"
+            },
+            {
+                "characterId": 3,
+                "characterState": "20-400"
+            },
+            {
+                "characterId": 4,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 5,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 9,
+                "characterState": "1<<2%> rarely>\/2"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1\/2-3"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5<except in the <i>Stolonifera<\/i> group, where it consists of racemes and the distinction from <i>Brachiaria<\/i> breaks down>"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2<except the American Agrostoidea group, \u2018<i>Psilochloa<\/i>\u2019, etc.>"
+            },
+            {
+                "characterId": 26,
+                "characterState": "1.4-6"
+            },
+            {
+                "characterId": 27,
+                "characterState": "3<with very few exceptions: e.g. <i>P. hemitomum<\/i>>"
+            },
+            {
+                "characterId": 28,
+                "characterState": "3\/4"
+            },
+            {
+                "characterId": 30,
+                "characterState": "2<very rarely prolonged, e.g. occasionally in <i>P. heliophilum<\/i>: Zuloaga and Morone 1991>"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterText": "<nearly always>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 35,
+                "characterText": "<(the longer)>",
+                "characterState": "2"
+            },
+            {
+                "characterId": 36,
+                "characterText": "<nearly always>",
+                "characterState": "2<the G<sup>2<\/sup> truncate to pointed, very rarely shortly awn-tipped>"
+            },
+            {
+                "characterId": 38,
+                "characterState": "3-9"
+            },
+            {
+                "characterId": 39,
+                "characterText": "<nearly always>",
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "1"
+            },
+            {
+                "characterId": 41,
+                "characterState": "1\/2<<@not ckeys> rarely>"
+            },
+            {
+                "characterId": 42,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 46,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1<rarely minutely apiculate>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 53,
+                "characterState": "1"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3-11"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1"
+            },
+            {
+                "characterId": 59,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "2"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1<linear in (e.g.) <i>P. glutinosum<\/i>, <i>P. macranthum<\/i>, <i>P. pilgerianum<\/i> = <i>Psilochloa<\/i>>"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 69,
+                "characterState": "1<5 species>\/2<14 species>\/3<4 species>"
+            },
+            {
+                "characterId": 70,
+                "characterText": "<when biochemically tested,>",
+                "characterState": "1<C<sup>3<\/sup>, or C<sup>4<\/sup> NAD-ME or PCK>\/2<NADP-ME>"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 75,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1\/2<rarely>"
+            },
+            {
+                "characterId": 78,
+                "characterState": "5"
+            },
+            {
+                "characterId": 79,
+                "characterState": "5"
+            },
+            {
+                "characterId": 84,
+                "characterState": "2"
+            },
+            {
+                "characterId": 85,
+                "characterText": "<about>",
+                "characterState": "370"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&5&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<mainly Metcalfe 1960 and this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<panicum>"
+            }
+        ]
+    },
+    {
+        "itemId": 12,
+        "name": "<i>Phragmites<\/i> <Adans.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Czernya<\/i> Presl, <i>Miphragtes<\/i> Nieuwland, <i>Oxyanthe<\/i> Steud., <i>Trichoon<\/i> Roth, <i>Xenochloa<\/i> Roem. & Schult.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "60-400<\u20131000 cm>"
+            },
+            {
+                "characterId": 4,
+                "characterState": "1-2<often somewhat persistent>"
+            },
+            {
+                "characterId": 5,
+                "characterState": "1<especially when main culm damaged>\/2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "2-3"
+            },
+            {
+                "characterId": 8,
+                "characterState": "6-50"
+            },
+            {
+                "characterId": 9,
+                "characterState": "2"
+            },
+            {
+                "characterId": 11,
+                "characterState": "3"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1<20-60 cm long, plumose, the fertile lemmas surrounded by long white silky hairs>"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "9-16"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1<at least above the L<sup>1<\/sup>>"
+            },
+            {
+                "characterId": 29,
+                "characterState": "2"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1"
+            },
+            {
+                "characterId": 31,
+                "characterState": "1<with long fine silky hairs>"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "1"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "2<rounded on the back>"
+            },
+            {
+                "characterId": 38,
+                "characterState": "3-5"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "3"
+            },
+            {
+                "characterId": 41,
+                "characterState": "1"
+            },
+            {
+                "characterId": 42,
+                "characterState": "1<the stamens often 2>\/2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "(2-)3-10"
+            },
+            {
+                "characterId": 45,
+                "characterState": "1"
+            },
+            {
+                "characterId": 46,
+                "characterState": "1<acute to acuminate or aristulate>"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1\/3<narrow-attenuate, muticous to aristulate>"
+            },
+            {
+                "characterId": 48,
+                "characterText": "<(if lemmas aristulate)>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 49,
+                "characterState": "3"
+            },
+            {
+                "characterId": 50,
+                "characterState": "1"
+            },
+            {
+                "characterId": 51,
+                "characterState": "1"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "1-3"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "2"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "1"
+            },
+            {
+                "characterId": 59,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "3"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 71,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "2"
+            },
+            {
+                "characterId": 76,
+                "characterState": "2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "3"
+            },
+            {
+                "characterId": 82,
+                "characterState": "5"
+            },
+            {
+                "characterId": 85,
+                "characterState": "3"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&5&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<phragmit>"
+            }
+        ]
+    },
+    {
+        "itemId": 13,
+        "name": "<i>Poa<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Arctopoa<\/i> (Griseb.) Probat., <i>Neuropoa<\/i> Clayton, <i>Oreopoa<\/i> Grand., <i>Paneion<\/i> Lunell, <i>Parodiochloa<\/i> C.E. Hubb., <i>Poagrostis<\/i> Raf.>"
+            },
+            {
+                "characterId": 2,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 3,
+                "characterState": "(1-)4-150"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 5,
+                "characterState": "2"
+            },
+            {
+                "characterId": 7,
+                "characterState": "1\/2<often ending in a boat-shaped tip>"
+            },
+            {
+                "characterId": 8,
+                "characterState": "0.2-12<rarely wider>"
+            },
+            {
+                "characterId": 11,
+                "characterState": "1\/2<<10%> rarely>"
+            },
+            {
+                "characterId": 12,
+                "characterState": "2<<95%>>\/3<or gynodioecious, in subgenus <i>Andinae<\/i>>"
+            },
+            {
+                "characterId": 13,
+                "characterState": "5"
+            },
+            {
+                "characterId": 14,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "-"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 26,
+                "characterState": "2-11"
+            },
+            {
+                "characterId": 27,
+                "characterState": "1"
+            },
+            {
+                "characterId": 28,
+                "characterState": "1"
+            },
+            {
+                "characterId": 29,
+                "characterState": "2"
+            },
+            {
+                "characterId": 30,
+                "characterState": "1"
+            },
+            {
+                "characterId": 31,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2\/1-2<nearly always \u2018subequal\u2019, with the G<sup>1<\/sup> somewhat shorter>"
+            },
+            {
+                "characterId": 35,
+                "characterState": "1"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "1"
+            },
+            {
+                "characterId": 38,
+                "characterState": "(1-)3(-5)"
+            },
+            {
+                "characterId": 39,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "(1-)2-13(-15)<the one-floreted species very unusual, perhaps restricted to Malesia>"
+            },
+            {
+                "characterId": 45,
+                "characterText": "<nearly always>",
+                "characterState": "1<very rarely tridenticulate>"
+            },
+            {
+                "characterId": 46,
+                "characterState": "1"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1\/2<2\u20133 mm terminal \u2018awns\u2019 in a very few species, e.g. in the southern South American <i>P. flabellata<\/i>>"
+            },
+            {
+                "characterId": 52,
+                "characterState": "1"
+            },
+            {
+                "characterId": 53,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "(3-)5\/7-11<<2%> rarely, e.g. in the Australian <i>Neuropoa<\/i>>"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 57,
+                "characterState": "1"
+            },
+            {
+                "characterId": 58,
+                "characterState": "2"
+            },
+            {
+                "characterId": 59,
+                "characterText": "<nearly always>",
+                "characterState": "2<occasionally ciliolate>"
+            },
+            {
+                "characterId": 60,
+                "characterState": "3"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1"
+            },
+            {
+                "characterId": 64,
+                "characterState": "1"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "2"
+            },
+            {
+                "characterId": 70,
+                "characterState": "1"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1\/2"
+            },
+            {
+                "characterId": 78,
+                "characterState": "1"
+            },
+            {
+                "characterId": 79,
+                "characterState": "2"
+            },
+            {
+                "characterId": 80,
+                "characterState": "7"
+            },
+            {
+                "characterId": 85,
+                "characterText": "<about>",
+                "characterState": "500"
+            },
+            {
+                "characterId": 86,
+                "characterState": "1&2&3&5&6"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<mainly Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<poa>"
+            }
+        ]
+    },
+    {
+        "itemId": 14,
+        "name": "<i>Zea<\/i> <L.>",
+        "characterStates": [
+            {
+                "characterId": 1,
+                "characterText": "<<i>Mays<\/i> Miller, <i>Mayzea<\/i> Raf., <i>Reana<\/i> Brignoli, <i>Thalysia<\/i> Kuntze. = <i>Zea mays<\/i> subsp. <i>mays<\/i>>"
+            },
+            {
+                "characterId": 2,
+                "characterText": "<robust>",
+                "characterState": "1"
+            },
+            {
+                "characterId": 3,
+                "characterState": "200-450"
+            },
+            {
+                "characterId": 4,
+                "characterState": "2"
+            },
+            {
+                "characterId": 6,
+                "characterState": "2"
+            },
+            {
+                "characterId": 11,
+                "characterState": "2"
+            },
+            {
+                "characterId": 12,
+                "characterState": "1"
+            },
+            {
+                "characterId": 13,
+                "characterState": "-<peculiar: the female axillary, comprising a stout, spicate spadix with spikelets in few to several longitudinal rows, terminating in a tuft of long pendulous styles (\u2018silks\u2019); the male spikelets in terminal panicles of spiciform \u2018tassels\u2019>"
+            },
+            {
+                "characterId": 14,
+                "characterState": "-"
+            },
+            {
+                "characterId": 15,
+                "characterState": "2"
+            },
+            {
+                "characterId": 16,
+                "characterState": "2"
+            },
+            {
+                "characterId": 18,
+                "characterState": "2"
+            },
+            {
+                "characterId": 19,
+                "characterState": "2"
+            },
+            {
+                "characterId": 20,
+                "characterState": "1<male>\/2<female>"
+            },
+            {
+                "characterId": 25,
+                "characterText": "<male spikelets in pairs, two-flowered, with many-nerved, membranous glumes. Lemmas and paleas hyaline, the florets with three stamens and two cuneate lodicules>"
+            },
+            {
+                "characterId": 27,
+                "characterState": "2-3"
+            },
+            {
+                "characterId": 28,
+                "characterState": "4"
+            },
+            {
+                "characterId": 30,
+                "characterState": "2"
+            },
+            {
+                "characterId": 31,
+                "characterState": "2"
+            },
+            {
+                "characterId": 33,
+                "characterState": "2"
+            },
+            {
+                "characterId": 34,
+                "characterState": "2"
+            },
+            {
+                "characterId": 35,
+                "characterState": "2"
+            },
+            {
+                "characterId": 36,
+                "characterState": "2"
+            },
+            {
+                "characterId": 37,
+                "characterState": "-"
+            },
+            {
+                "characterId": 38,
+                "characterState": "0"
+            },
+            {
+                "characterId": 39,
+                "characterState": "2"
+            },
+            {
+                "characterId": 40,
+                "characterState": "1"
+            },
+            {
+                "characterId": 41,
+                "characterState": "1"
+            },
+            {
+                "characterId": 42,
+                "characterState": "2"
+            },
+            {
+                "characterId": 43,
+                "characterState": "2"
+            },
+            {
+                "characterId": 44,
+                "characterState": "1"
+            },
+            {
+                "characterId": 47,
+                "characterState": "1"
+            },
+            {
+                "characterId": 52,
+                "characterState": "2"
+            },
+            {
+                "characterId": 54,
+                "characterState": "3"
+            },
+            {
+                "characterId": 55,
+                "characterState": "1"
+            },
+            {
+                "characterId": 56,
+                "characterState": "1"
+            },
+            {
+                "characterId": 57,
+                "characterState": "2"
+            },
+            {
+                "characterId": 60,
+                "characterState": "0"
+            },
+            {
+                "characterId": 61,
+                "characterState": "1"
+            },
+            {
+                "characterId": 62,
+                "characterState": "2<at tip of style>"
+            },
+            {
+                "characterId": 63,
+                "characterState": "1-2<or green>"
+            },
+            {
+                "characterId": 64,
+                "characterState": "2"
+            },
+            {
+                "characterId": 66,
+                "characterState": "1"
+            },
+            {
+                "characterId": 68,
+                "characterState": "1"
+            },
+            {
+                "characterId": 69,
+                "characterState": "3"
+            },
+            {
+                "characterId": 70,
+                "characterState": "2"
+            },
+            {
+                "characterId": 73,
+                "characterState": "1"
+            },
+            {
+                "characterId": 74,
+                "characterState": "2"
+            },
+            {
+                "characterId": 75,
+                "characterState": "1"
+            },
+            {
+                "characterId": 76,
+                "characterState": "1"
+            },
+            {
+                "characterId": 77,
+                "characterState": "1"
+            },
+            {
+                "characterId": 78,
+                "characterState": "5"
+            },
+            {
+                "characterId": 79,
+                "characterState": "6"
+            },
+            {
+                "characterId": 84,
+                "characterState": "6"
+            },
+            {
+                "characterId": 85,
+                "characterState": "1"
+            },
+            {
+                "characterId": 86,
+                "characterState": "3"
+            },
+            {
+                "characterId": 87,
+                "characterText": "<Metcalfe 1960; this project>"
+            },
+            {
+                "characterId": 89,
+                "characterText": "<zea>"
+            }
+        ]
+    }
+]

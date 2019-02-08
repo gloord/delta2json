@@ -1,0 +1,1582 @@
+[
+    {
+        "characterId": 1,
+        "characterDescription": "including <synonyms: \u2018genera\u2019 included in the current description>",
+        "characterType": "TE",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 2,
+        "characterDescription": "<longevity of plants>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "annual <or biennial, without remains of old sheaths or culms>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "perennial <with remains of old sheaths and\/or culms>"
+            }
+        ]
+    },
+    {
+        "characterId": 3,
+        "characterDescription": "<mature> culms <maximum height: data unreliable for large genera>",
+        "characterType": "RN",
+        "characterUnit": "cm high",
+        "characterStates": []
+    },
+    {
+        "characterId": 4,
+        "characterDescription": "culms <whether woody or herbaceous>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "woody and persistent"
+            },
+            {
+                "id": 2,
+                "stateDesc": "herbaceous <not woody, not persistent>"
+            }
+        ]
+    },
+    {
+        "characterId": 5,
+        "characterDescription": "culms <whether branched above>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "branched <vegetatively> above"
+            },
+            {
+                "id": 2,
+                "stateDesc": "unbranched <vegetatively> above"
+            }
+        ]
+    },
+    {
+        "characterId": 6,
+        "characterDescription": "culm nodes <whether hairy or glabrous>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "hairy"
+            },
+            {
+                "id": 2,
+                "stateDesc": "glabrous"
+            }
+        ]
+    },
+    {
+        "characterId": 7,
+        "characterDescription": "leaf blades <shape: data incomplete>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "linear"
+            },
+            {
+                "id": 2,
+                "stateDesc": "linear-lanceolate"
+            },
+            {
+                "id": 3,
+                "stateDesc": "lanceolate"
+            },
+            {
+                "id": 4,
+                "stateDesc": "ovate-lanceolate"
+            },
+            {
+                "id": 5,
+                "stateDesc": "ovate"
+            },
+            {
+                "id": 6,
+                "stateDesc": "elliptic <oblong>"
+            },
+            {
+                "id": 7,
+                "stateDesc": "obovate"
+            }
+        ]
+    },
+    {
+        "characterId": 8,
+        "characterDescription": "leaf blades <mid-width: data very incomplete>",
+        "characterType": "RN",
+        "characterUnit": "mm wide",
+        "characterStates": []
+    },
+    {
+        "characterId": 9,
+        "characterDescription": "leaf blades <whether pseudopetiolate>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "pseudopetiolate"
+            },
+            {
+                "id": 2,
+                "stateDesc": "not pseudopetiolate <<implicit>>"
+            }
+        ]
+    },
+    {
+        "characterId": 10,
+        "characterDescription": "<adaxial> ligule <presence>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<consistently> present <<implicit>>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "absent <at least from upper leaves>"
+            }
+        ]
+    },
+    {
+        "characterId": 11,
+        "characterDescription": "<adaxial> ligule <form; avoid seedlings>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "an unfringed membrane <may be variously hairy or ciliolate>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "a fringed membrane"
+            },
+            {
+                "id": 3,
+                "stateDesc": "a fringe of hairs"
+            },
+            {
+                "id": 4,
+                "stateDesc": "a rim of minute papillae"
+            }
+        ]
+    },
+    {
+        "characterId": 12,
+        "characterDescription": "plants <whether monoecious, with bisexual spikelets, or dioecious>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<bisexual, but> monoecious with all the fertile spikelets unisexual"
+            },
+            {
+                "id": 2,
+                "stateDesc": "bisexual, with <at least some> bisexual spikelets"
+            },
+            {
+                "id": 3,
+                "stateDesc": "dioecious <with separate male and female-fertile individuals>"
+            }
+        ]
+    },
+    {
+        "characterId": 13,
+        "characterDescription": "inflorescence <chasmogamous: overall form>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "a single spike"
+            },
+            {
+                "id": 2,
+                "stateDesc": "of spicate <spike-like> main branches <of spikes, narrow racemes or narrow panicles>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "a false spike, with spikelets <or spikelet clusters> on contracted axes"
+            },
+            {
+                "id": 4,
+                "stateDesc": "a single raceme <at least some of the spikelets clearly pedicellate>"
+            },
+            {
+                "id": 5,
+                "stateDesc": "paniculate <and not readily referable to any of the other states>"
+            }
+        ]
+    },
+    {
+        "characterId": 14,
+        "characterDescription": "inflorescence <whether open or contracted: mainly applied to panicles>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "open"
+            },
+            {
+                "id": 2,
+                "stateDesc": "contracted <very compact, or narrow and spike-like>"
+            }
+        ]
+    },
+    {
+        "characterId": 15,
+        "characterDescription": "inflorescence <whether comprising a complex of \u2018partial inflorescences\u2019 and intervening foliar organs (= leaves, spathes, spatheoles)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "a complex of \u2018partial inflorescences\u2019 and intervening foliar organs <i.e., a \u2018pseudo-inflorescence\u2019>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "not comprising \u2018partial inflorescences\u2019 and foliar organs"
+            }
+        ]
+    },
+    {
+        "characterId": 16,
+        "characterDescription": "spikelet-bearing axes <whether disarticulating; note that spikelet-bearing axes may be greatly reduced>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "disarticulating <often manifested in clearly articulated rachides; excluding inflorescences falling whole (tumbleweeds)>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "persistent <not disarticulating> <<implicit>>"
+            }
+        ]
+    },
+    {
+        "characterId": 17,
+        "characterDescription": "spikelet-bearing axes <manner of disarticulation>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "falling entire"
+            },
+            {
+                "id": 2,
+                "stateDesc": "disarticulating at the joints"
+            }
+        ]
+    },
+    {
+        "characterId": 18,
+        "characterDescription": "spikelets <grouping: recorded mainly in spikes and racemes>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<mainly> solitary"
+            },
+            {
+                "id": 2,
+                "stateDesc": "<consistently> paired"
+            },
+            {
+                "id": 3,
+                "stateDesc": "<consistently> in triplets"
+            }
+        ]
+    },
+    {
+        "characterId": 19,
+        "characterDescription": "spikelets <whether secund>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "secund"
+            },
+            {
+                "id": 2,
+                "stateDesc": "not secund"
+            }
+        ]
+    },
+    {
+        "characterId": 20,
+        "characterDescription": "spikelets <whether in regular \u2018long-and-short\u2019 combinations, as exemplified in typical andropogonoids>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "consistently in \u2018long-and-short\u2019 combinations <i.e., pedicellate\/sessile or long-pedicel\/short-pedicel pairs or triplets: currently includes andropogonoid forms with the pedicellate \u2018spikelets\u2019 reduced to their pedicels>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "not <consistently> in distinct \u2018long-and-short\u2019 combinations <<implicit>>"
+            }
+        ]
+    },
+    {
+        "characterId": 21,
+        "characterDescription": "spikelets <detail of \u2018long-and-short\u2019 combinations (intended mainly for andropogonoids)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "in pedicellate\/sessile combinations"
+            },
+            {
+                "id": 2,
+                "stateDesc": "unequally pedicellate in each combination"
+            }
+        ]
+    },
+    {
+        "characterId": 22,
+        "characterDescription": "pedicels of the \u2018pedicellate\u2019 spikelets <whether fused with the rachis: intended for andropogonoids>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "discernible, but <extensively> fused with the rachis"
+            },
+            {
+                "id": 2,
+                "stateDesc": "free of the rachis"
+            }
+        ]
+    },
+    {
+        "characterId": 23,
+        "characterDescription": "the \u2018shorter\u2019 <andropogonoid> spikelets <sessile or shorter-pedicelled, sexuality>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "hermaphrodite"
+            },
+            {
+                "id": 2,
+                "stateDesc": "female-only"
+            },
+            {
+                "id": 3,
+                "stateDesc": "male-only"
+            },
+            {
+                "id": 4,
+                "stateDesc": "sterile"
+            }
+        ]
+    },
+    {
+        "characterId": 24,
+        "characterDescription": "the \u2018longer\u2019 <andropogonoid> spikelets <pedicelled or longer-pedicelled, sexuality>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "hermaphrodite"
+            },
+            {
+                "id": 2,
+                "stateDesc": "female-only"
+            },
+            {
+                "id": 3,
+                "stateDesc": "male-only"
+            },
+            {
+                "id": 4,
+                "stateDesc": "sterile <comment if reduced to pedicels>"
+            }
+        ]
+    },
+    {
+        "characterId": 25,
+        "characterDescription": "<comments on female-sterile spikelets>",
+        "characterType": "TE",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 26,
+        "characterDescription": "<female-fertile> spikelets <approximate length, excluding any awns>",
+        "characterType": "RN",
+        "characterUnit": "mm long",
+        "characterStates": []
+    },
+    {
+        "characterId": 27,
+        "characterDescription": "<female-fertile> spikelets <plane of compression>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "compressed laterally <lying on the side when placed on a flat surface>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "not noticeably compressed <terete>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "compressed <dorsally, ventrally or> dorsiventrally <lying on front or back when placed on a flat surface>"
+            }
+        ]
+    },
+    {
+        "characterId": 28,
+        "characterDescription": "<female-fertile> spikelets <location of disarticulation positions>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<readily> disarticulating above the glumes <when mature>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "disarticulating between the glumes"
+            },
+            {
+                "id": 3,
+                "stateDesc": "falling with the glumes <when mature> <pending data changes, including forms where the spikelets are shed by inflorescence disarticulation>"
+            },
+            {
+                "id": 4,
+                "stateDesc": "not disarticulating <common in cultivated cereals>"
+            }
+        ]
+    },
+    {
+        "characterId": 29,
+        "characterDescription": "<female-fertile> spikelets <whether rachilla disarticulates between the florets of spikelets with two or more fertile florets>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "not disarticulating between the florets"
+            },
+            {
+                "id": 2,
+                "stateDesc": "disarticulating between the florets"
+            }
+        ]
+    },
+    {
+        "characterId": 30,
+        "characterDescription": "rachilla <of female-fertile spikelets, whether terminated by a female-fertile floret, or \u2018prolonged\u2019>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "prolonged beyond the uppermost female-fertile floret <i.e. not terminated by a female-fertile floret: note that \u2018racemose\u2019 spikelets with three or more female-fertile florets have all been awarded this state>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "terminated by a female-fertile floret <not \u2018prolonged\u2019>"
+            }
+        ]
+    },
+    {
+        "characterId": 31,
+        "characterDescription": "hairy callus <presence>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "present"
+            },
+            {
+                "id": 2,
+                "stateDesc": "absent"
+            }
+        ]
+    },
+    {
+        "characterId": 32,
+        "characterDescription": "glumes <of female-fertile spikelets, present or absent>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "present <<implicit>>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "absent"
+            }
+        ]
+    },
+    {
+        "characterId": 33,
+        "characterDescription": "glumes <of female-fertile spikelets, number: \u2018glumes\u2019 are barren, with neither axillary spikelets nor florets>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "one per spikelet"
+            },
+            {
+                "id": 2,
+                "stateDesc": "two"
+            },
+            {
+                "id": 3,
+                "stateDesc": "several"
+            }
+        ]
+    },
+    {
+        "characterId": 34,
+        "characterDescription": "glumes <of female-fertile spikelets, whether markedly unequal in the intact spikelet; regardless of any differences in form>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "very unequal <in length in the intact spikelet>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "more or less equal <in length in the intact spikelet: generally includes \u2018subequal\u2019>"
+            }
+        ]
+    },
+    {
+        "characterId": 35,
+        "characterDescription": "glumes <of female-fertile spikelets, lengths relative to proximal (adjacent) lemmas; refers to the longer glume when glumes unequal>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<decidedly> shorter than the adjacent lemmas <in intact spikelets>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "long relative to the adjacent lemmas <more or less equalling or exceeding them>"
+            }
+        ]
+    },
+    {
+        "characterId": 36,
+        "characterDescription": "glumes <of female-fertile spikelets, whether awned>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "awned"
+            },
+            {
+                "id": 2,
+                "stateDesc": "awnless"
+            }
+        ]
+    },
+    {
+        "characterId": 37,
+        "characterDescription": "glumes <of female-fertile spikelets, whether carinate (i.e., one-keeled to middle or below)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "carinate <one-keeled>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "non-carinate <includes forms with more than one keel, as well as those with non-keeled glumes>"
+            }
+        ]
+    },
+    {
+        "characterId": 38,
+        "characterDescription": "upper glume <(or the single glume) of female-fertile spikelets, mid-zone nerve number>",
+        "characterType": "IN",
+        "characterUnit": "nerved",
+        "characterStates": []
+    },
+    {
+        "characterId": 39,
+        "characterDescription": "<female-fertile> spikelets <whether containing sterile or male-only florets in addition to female-fertile florets>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<normally> with female-fertile florets only"
+            },
+            {
+                "id": 2,
+                "stateDesc": "<or at least some of them, normally> with incomplete <sterile or male-only> florets <note that the situation at the apex of spikelets with more than three florets is often unknown or unclear>"
+            }
+        ]
+    },
+    {
+        "characterId": 40,
+        "characterDescription": "the incomplete <male or sterile> florets <position in spikelet>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "proximal to the female-fertile florets"
+            },
+            {
+                "id": 2,
+                "stateDesc": "distal to the female-fertile florets"
+            },
+            {
+                "id": 3,
+                "stateDesc": "both distal and proximal to the female-fertile florets"
+            }
+        ]
+    },
+    {
+        "characterId": 41,
+        "characterDescription": "the proximal incomplete florets <of the female-fertile spikelets, when present, number (intended mainly for panicoids)>",
+        "characterType": "IN",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 42,
+        "characterDescription": "the proximal incomplete florets <of the female-fertile spikelets: sexuality>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "male"
+            },
+            {
+                "id": 2,
+                "stateDesc": "sterile"
+            }
+        ]
+    },
+    {
+        "characterId": 43,
+        "characterDescription": "the proximal <imperfect> lemmas <of the female-fertile spikelets: whether awned>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "awned"
+            },
+            {
+                "id": 2,
+                "stateDesc": "awnless"
+            }
+        ]
+    },
+    {
+        "characterId": 44,
+        "characterDescription": "<number of> female-fertile florets <per female-fertile spikelet>",
+        "characterType": "IN",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 45,
+        "characterDescription": "<female-fertile> lemmas <shape of apex>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "entire"
+            },
+            {
+                "id": 2,
+                "stateDesc": "incised"
+            }
+        ]
+    },
+    {
+        "characterId": 46,
+        "characterDescription": "<female-fertile> lemmas <entire, whether pointed or blunt>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "pointed"
+            },
+            {
+                "id": 2,
+                "stateDesc": "blunt"
+            }
+        ]
+    },
+    {
+        "characterId": 47,
+        "characterDescription": "<female-fertile> lemmas <whether mucronate or awned>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "awnless <neither mucronate nor awned>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "mucronate <with a short, hard point or vestigial or incipient awn>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "awned"
+            }
+        ]
+    },
+    {
+        "characterId": 48,
+        "characterDescription": "awns <of female-fertile lemmas, if present, number>",
+        "characterType": "IN",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 49,
+        "characterDescription": "awns <of female-fertile lemmas, position of (main, median)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "from a sinus"
+            },
+            {
+                "id": 2,
+                "stateDesc": "dorsal"
+            },
+            {
+                "id": 3,
+                "stateDesc": "apical"
+            }
+        ]
+    },
+    {
+        "characterId": 50,
+        "characterDescription": "awns <of female-fertile lemmas, whether straight or geniculate when dry>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "non-geniculate <straight or curved>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "geniculate <usually twisted at the base>"
+            }
+        ]
+    },
+    {
+        "characterId": 51,
+        "characterDescription": "awns <main, median of the female-fertile lemmas, relative length>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "much shorter than the body of the lemma"
+            },
+            {
+                "id": 2,
+                "stateDesc": "about as long as the body of the lemma"
+            },
+            {
+                "id": 3,
+                "stateDesc": "much longer than the body of the lemma"
+            }
+        ]
+    },
+    {
+        "characterId": 52,
+        "characterDescription": "<female-fertile> lemmas <whether carinate (i.e., one-keeled at least to the middle on the back)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "carinate <with a single median keel>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "non-carinate <rounded, flat, with two or more keels>"
+            }
+        ]
+    },
+    {
+        "characterId": 53,
+        "characterDescription": "<female-fertile> lemmas <presence of germination flap>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "with a clear germination flap <when mature>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "without a germination flap"
+            }
+        ]
+    },
+    {
+        "characterId": 54,
+        "characterDescription": "<female-fertile> lemmas <number of nerves traversing mid-region>",
+        "characterType": "IN",
+        "characterUnit": "nerved",
+        "characterStates": []
+    },
+    {
+        "characterId": 55,
+        "characterDescription": "palea <female-fertile, presence in female-fertile florets>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "present"
+            },
+            {
+                "id": 2,
+                "stateDesc": "absent"
+            }
+        ]
+    },
+    {
+        "characterId": 56,
+        "characterDescription": "palea <female-fertile, relative size>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "relatively long <three-quarters or more of female-fertile lemma length>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "conspicuous but relatively short <less than three-quarters of female-fertile lemma length>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "very reduced <or vestigial>"
+            }
+        ]
+    },
+    {
+        "characterId": 57,
+        "characterDescription": "lodicules <presence in female-fertile florets>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "present"
+            },
+            {
+                "id": 2,
+                "stateDesc": "absent"
+            }
+        ]
+    },
+    {
+        "characterId": 58,
+        "characterDescription": "lodicules <of female-fertile florets, texture>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<distally> fleshy <\u2018cuneate\u2019; panicoid type>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "<distally> membranous <i.e. pooid type>"
+            }
+        ]
+    },
+    {
+        "characterId": 59,
+        "characterDescription": "lodicules <of female-fertile florets, whether hairy>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "ciliate <or hairy>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "glabrous"
+            }
+        ]
+    },
+    {
+        "characterId": 60,
+        "characterDescription": "stamens <number per female-fertile floret (not applicable to male spikelets or male florets)>",
+        "characterType": "IN",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 61,
+        "characterDescription": "ovary <of female-fertile florets, whether apex glabrous or hairy>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "glabrous"
+            },
+            {
+                "id": 2,
+                "stateDesc": "hairy"
+            }
+        ]
+    },
+    {
+        "characterId": 62,
+        "characterDescription": "stigmas <number>",
+        "characterType": "IN",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 63,
+        "characterDescription": "stigmas <colour, in chasmogamous spikelets>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "white"
+            },
+            {
+                "id": 2,
+                "stateDesc": "red <anthocyanin> pigmented"
+            },
+            {
+                "id": 3,
+                "stateDesc": "<golden> brown"
+            }
+        ]
+    },
+    {
+        "characterId": 64,
+        "characterDescription": "fruit <length when mature>",
+        "characterType": "OM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "small <less than 4 mm>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "medium sized <4\u201310 mm>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "large <more than 10 mm long>"
+            }
+        ]
+    },
+    {
+        "characterId": 65,
+        "characterDescription": "fruit <or grain surface pattern>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "sculptured"
+            },
+            {
+                "id": 2,
+                "stateDesc": "<relatively> smooth <the near-universal condition: implicit>"
+            }
+        ]
+    },
+    {
+        "characterId": 66,
+        "characterDescription": "hilum <form>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "short <punctiform or shortly elliptical, less than half length of fruit>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "long-linear <more than half as long as fruit>"
+            }
+        ]
+    },
+    {
+        "characterId": 67,
+        "characterDescription": "pericarp <whether fused or loose (or free)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "free"
+            },
+            {
+                "id": 2,
+                "stateDesc": "loosely adherent <fairly easily removable when soaked>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "fused <implicit, except in Arundinoideae and Chloridoideae>"
+            }
+        ]
+    },
+    {
+        "characterId": 68,
+        "characterDescription": "<maximum cells-distant count; reliably indicative of photosynthetic pathway>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "<showing a maximum cells-distant count of one, reliably predicting> C<sup>4<\/sup>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "<showing a maximum cells-distant count of two or more, reliably predicting> C<sup>3<\/sup>"
+            }
+        ]
+    },
+    {
+        "characterId": 69,
+        "characterDescription": "<C<sup>4<\/sup>> biochemical type <as determined by enzyme assay>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "PCK"
+            },
+            {
+                "id": 2,
+                "stateDesc": "NAD\u2013ME"
+            },
+            {
+                "id": 3,
+                "stateDesc": "NADP\u2013ME"
+            }
+        ]
+    },
+    {
+        "characterId": 70,
+        "characterDescription": "<leaf blade XyMS: reliably indicative of C<sup>4<\/sup> type>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "XyMS+ <C<sup>3<\/sup>, or C<sup>4<\/sup> \u2018aspartate formers\u2019 type PCK or NAD\u2013ME (exceptions: Eriachneae)>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "XyMS\u2013 <C<sup>4<\/sup> \u2018malate formers\u2019, type NADP\u2013ME>"
+            }
+        ]
+    },
+    {
+        "characterId": 71,
+        "characterDescription": "<leaf blade> mesophyll <presence of arm cells (= \u2018ratchet\u2019 cells)>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "with arm cells"
+            },
+            {
+                "id": 2,
+                "stateDesc": "without arm cells <implicit when ts adequately described>"
+            }
+        ]
+    },
+    {
+        "characterId": 72,
+        "characterDescription": "<leaf blade> mesophyll <presence of fusoid cells>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "with fusoids"
+            },
+            {
+                "id": 2,
+                "stateDesc": "without fusoids <implicit when ts adequately described>"
+            }
+        ]
+    },
+    {
+        "characterId": 73,
+        "characterDescription": "midrib <of the leaf blade, prominence>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "conspicuous <prominent in the outline, with distinctive sclerenchyma, etc.>"
+            },
+            {
+                "id": 2,
+                "stateDesc": "not readily distinguishable <other than by position>"
+            }
+        ]
+    },
+    {
+        "characterId": 74,
+        "characterDescription": "midrib <of the mid leaf blade, vascularization>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "with one bundle only"
+            },
+            {
+                "id": 2,
+                "stateDesc": "having a conventional arc of bundles <i.e. at least three bundles>"
+            },
+            {
+                "id": 3,
+                "stateDesc": "having complex vascularization <i.e. with more than one bundle, not arranged in a conventional arc>"
+            }
+        ]
+    },
+    {
+        "characterId": 75,
+        "characterDescription": "midrib <and\/or middle part of leaf blade, whether extensively of colourless cells adaxially>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "with <conspicuous> colourless tissue adaxially"
+            },
+            {
+                "id": 2,
+                "stateDesc": "without <conspicuous> colourless tissue adaxially <implicit when ts adequately described>"
+            }
+        ]
+    },
+    {
+        "characterId": 76,
+        "characterDescription": "<presence in the leaf blade of small vascular bundles unaccompanied by sclerenchyma>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "many of the smallest vascular bundles unaccompanied by sclerenchyma"
+            },
+            {
+                "id": 2,
+                "stateDesc": "all <or nearly all> the vascular bundles accompanied by sclerenchyma"
+            }
+        ]
+    },
+    {
+        "characterId": 77,
+        "characterDescription": "<<i>Zea mays<\/i>>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "fruiting inflorescence a massive, spatheate cob, the fruits in many rows"
+            },
+            {
+                "id": 2,
+                "stateDesc": "fruiting inflorescence not as in maize <<implicit>>"
+            }
+        ]
+    },
+    {
+        "characterId": 78,
+        "characterDescription": "<subfamily>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Pooideae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Bambusoideae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Arundinoideae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Chloridoideae"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Panicoideae"
+            }
+        ]
+    },
+    {
+        "characterId": 79,
+        "characterDescription": "<supertribes of Watson <i>et al<\/i>. 1985, with name endings changed>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Triticodae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Poodae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Oryzodae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Bambusodae"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Panicodae"
+            },
+            {
+                "id": 6,
+                "stateDesc": "Andropogonodae"
+            }
+        ]
+    },
+    {
+        "characterId": 80,
+        "characterDescription": "<tribe of Pooideae>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Triticeae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Brachypodieae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Bromeae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Aveneae <including Agrostideae, Phalarideae>"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Meliceae"
+            },
+            {
+                "id": 6,
+                "stateDesc": "Seslerieae"
+            },
+            {
+                "id": 7,
+                "stateDesc": "Poeae <including Hainardieae, Monermeae>"
+            }
+        ]
+    },
+    {
+        "characterId": 81,
+        "characterDescription": "<tribe of Bambusoideae>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Oryzeae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Olyreae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Centotheceae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Anomochloeae"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Brachyelytreae"
+            },
+            {
+                "id": 6,
+                "stateDesc": "Diarrheneae"
+            },
+            {
+                "id": 7,
+                "stateDesc": "Ehrharteae"
+            },
+            {
+                "id": 8,
+                "stateDesc": "Phaenospermateae"
+            },
+            {
+                "id": 9,
+                "stateDesc": "Phyllorhachideae"
+            },
+            {
+                "id": 10,
+                "stateDesc": "Phareae"
+            },
+            {
+                "id": 11,
+                "stateDesc": "Streptochaeteae"
+            },
+            {
+                "id": 12,
+                "stateDesc": "Streptogyneae"
+            },
+            {
+                "id": 13,
+                "stateDesc": "Guaduelleae"
+            },
+            {
+                "id": 14,
+                "stateDesc": "Puelieae"
+            },
+            {
+                "id": 15,
+                "stateDesc": "Bambuseae"
+            }
+        ]
+    },
+    {
+        "characterId": 82,
+        "characterDescription": "<tribe of Arundinoideae>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Steyermarkochloeae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Stipeae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Nardeae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Lygeae"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Arundineae"
+            },
+            {
+                "id": 6,
+                "stateDesc": "Danthonieae <and satellites>"
+            },
+            {
+                "id": 7,
+                "stateDesc": "Cyperochloeae"
+            },
+            {
+                "id": 8,
+                "stateDesc": "Micraireae"
+            },
+            {
+                "id": 9,
+                "stateDesc": "Spartochloeae"
+            },
+            {
+                "id": 10,
+                "stateDesc": "Aristideae"
+            },
+            {
+                "id": 11,
+                "stateDesc": "Eriachneae"
+            },
+            {
+                "id": 12,
+                "stateDesc": "Amphipogoneae"
+            }
+        ]
+    },
+    {
+        "characterId": 83,
+        "characterDescription": "<tribe\/assemblage of Chloridoideae>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Pappophoreae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Orcuttieae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Triodieae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "main chloridoid assemblage <including Chlorideae, Cynodonteae, Eragrosteae, Sporoboleae, Aeluropodeae, Jouveae, Unioleae, Leptureae, Lappagineae, Spartineae, Trageae, Perotideae, Pommereulleae>"
+            }
+        ]
+    },
+    {
+        "characterId": 84,
+        "characterDescription": "<tribe of Panicoideae>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Isachneae"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Paniceae"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Neurachneae"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Arundinelleae"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Andropogoneae"
+            },
+            {
+                "id": 6,
+                "stateDesc": "Maydeae"
+            }
+        ]
+    },
+    {
+        "characterId": 85,
+        "characterDescription": "<number of species>",
+        "characterType": "IN",
+        "characterUnit": "species",
+        "characterStates": []
+    },
+    {
+        "characterId": 86,
+        "characterDescription": "<floristic Kingdoms: after Takhtajan 1969>",
+        "characterType": "UM",
+        "characterUnit": null,
+        "characterStates": [
+            {
+                "id": 1,
+                "stateDesc": "Holarctic"
+            },
+            {
+                "id": 2,
+                "stateDesc": "Paleotropical"
+            },
+            {
+                "id": 3,
+                "stateDesc": "Neotropical"
+            },
+            {
+                "id": 4,
+                "stateDesc": "Cape"
+            },
+            {
+                "id": 5,
+                "stateDesc": "Australian"
+            },
+            {
+                "id": 6,
+                "stateDesc": "Antarctic"
+            }
+        ]
+    },
+    {
+        "characterId": 87,
+        "characterDescription": "<leaf anatomical references>",
+        "characterType": "TE",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 88,
+        "characterDescription": "<illustrations:>",
+        "characterType": "TE",
+        "characterUnit": null,
+        "characterStates": []
+    },
+    {
+        "characterId": 89,
+        "characterDescription": "<abbreviated taxon name:>",
+        "characterType": "TE",
+        "characterUnit": null,
+        "characterStates": []
+    }
+]
