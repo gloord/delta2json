@@ -29,6 +29,7 @@ class DeltaSpecs
         if (array_key_exists($id, $this->parsedSpecs['CHARACTER_TYPES'])) {
             return $this->parsedSpecs['CHARACTER_TYPES'][$id]['characterType'];
         }
+        
         return false;
     }
 
