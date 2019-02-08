@@ -1,5 +1,7 @@
 # PHP DELTA2JSON Converter
 
+[![Build Status](https://travis-ci.org/gloord/delta2json.svg?branch=master)](https://travis-ci.org/gloord/delta2json)
+
 ### Description
 
 PHP CLI application for converting DELTA (DEscription Language for TAxonomy) files into JSON format.
