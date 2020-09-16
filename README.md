@@ -1,6 +1,6 @@
 # PHP DELTA2JSON Converter
 
-[![Build Status](https://travis-ci.org/gloord/delta2json.svg?branch=master)](https://travis-ci.org/gloord/delta2json)
+[![Build Status](https://travis-ci.com/gloord/delta2json.svg?branch=master)](https://travis-ci.com/gloord/delta2json)
 
 ### Description
 
