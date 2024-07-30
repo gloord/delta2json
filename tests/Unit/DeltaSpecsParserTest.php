@@ -25,7 +25,7 @@ class DeltaSpecsParserTest extends TestCase
         $this->assertEquals($result['IMPLICIT_VALUES'], $this->parserObject->getImplicitValues());
     }
 
-    protected function setUp()
+    protected function setUp():void
     {
         $this->parserObject = new DeltaSpecsParser();
     }

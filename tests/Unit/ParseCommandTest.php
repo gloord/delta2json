@@ -16,7 +16,7 @@ class ParseCommandTest extends TestCase
      */
     protected $commandTester;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $application = new Application();
         $application->add(new ParseCommand());
@@ -24,7 +24,7 @@ class ParseCommandTest extends TestCase
         $this->commandTester = new CommandTester($command);
     }
 
-    protected function tearDown()
+    protected function tearDown(): void
     {
         $fileSystem = new Filesystem();
 
@@ -48,6 +48,6 @@ class ParseCommandTest extends TestCase
     {
         $this->commandTester->execute(['filepath' => 'tests/files/fake/']);
 
-        $this->assertRegExp('/Specs file does not exist\!/', $this->commandTester->getDisplay());
+        $this->assertMatchesRegularExpression('/Specs file does not exist\!/', $this->commandTester->getDisplay());
     }
 }

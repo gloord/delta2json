@@ -14,7 +14,7 @@ class TokenTest extends TestCase
      */
     protected $tokenInstance;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->tokenInstance = new Token(Token::T_NONE, 0);
     }

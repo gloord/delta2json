@@ -22,7 +22,7 @@ class DeltaSpecsTest extends TestCase
         ],
     ];
 
-    protected function setUp()
+    protected function setUp():void
     {
         $this->deltaSpecsInstance = new DeltaSpecs($this->characterTestArray);
     }

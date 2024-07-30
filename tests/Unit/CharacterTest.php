@@ -14,7 +14,7 @@ class CharacterTest extends TestCase
     protected $characterInstance;
 
 
-    protected function setUp()
+    protected function setUp():void
     {
         $this->characterInstance = new Character();
     }

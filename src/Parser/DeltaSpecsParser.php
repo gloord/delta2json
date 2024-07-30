@@ -64,15 +64,8 @@ class DeltaSpecsParser
      * @return array
      * @throws \Exception
      */
-    //public function parse(string $path)
     public function parse(string $string)
     {
-        /*if (!file_exists($path)) {
-            throw new \Exception('Specs file does not exist!');
-        }*/
-
-        //$contentArray = explode('*', file_get_contents($path));
-
         $contentArray = explode('*', $string);
 
         $parsedDirectives = $this->parseDirectives($contentArray);

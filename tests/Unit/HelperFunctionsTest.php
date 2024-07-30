@@ -13,17 +13,17 @@ class HelperFunctionsTest extends TestCase
     /**
      * @var HelperFunctions
      */
-    protected $traitObject;
+    //protected $traitObject;
 
-    protected function setUp()
+    protected function setUp(): void
     {
-        $this->traitObject = $this->getMockForTrait(HelperFunctions::class,[],'HelperFunctions');
+        //$this->traitObject = $this->getMock(HelperFunctions::class,[],'HelperFunctions');
     }
 
     public function testChunkMapFunctionGetsExpectedResult()
     {
         $string = 't <es <t> this> result';
-        $result = $this->traitObject->mapChunks($string, ['<', '>']);
+        $result = $this->mapChunks($string, ['<', '>']);
 
         $expected = [
             ['level' => 1, 'start' => 6, 'end' => 8,],
@@ -36,7 +36,7 @@ class HelperFunctionsTest extends TestCase
     public function testChunkMapFunctionEmptyDelimiterResult()
     {
         $string = 'this is a mockup string';
-        $result = $this->traitObject->mapChunks($string, ['', '']);
+        $result = $this->mapChunks($string, ['', '']);
 
         $this->assertEquals([], $result);
     }
@@ -44,7 +44,7 @@ class HelperFunctionsTest extends TestCase
     public function testChunkMapFunctionNoMatchResult()
     {
         $string = 'this is a mockup string';
-        $result = $this->traitObject->mapChunks($string, ['[', ']']);
+        $result = $this->mapChunks($string, ['[', ']']);
 
         $this->assertEquals([], $result);
     }
@@ -52,7 +52,7 @@ class HelperFunctionsTest extends TestCase
     public function testSplitSpecialSplitSimpleFunction()
     {
         $string = 'This is, just a <test <with, nested> tokens, and> sample <nested, values> the, text';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<', '>']]);
+        $result = $this->splitSpecial($string, ',', [['<', '>']]);
 
         $expected = [
             'This is',
@@ -67,7 +67,7 @@ class HelperFunctionsTest extends TestCase
     {
         //no spliting deeply nested
         $string = '<test, with> deeply <<<<nested>>>> text';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<', '>']]);
+        $result = $this->splitSpecial($string, ',', [['<', '>']]);
 
         $expected = [
             '<test, with> deeply <<<<nested>>>> text',
@@ -80,7 +80,7 @@ class HelperFunctionsTest extends TestCase
     {
         //no container marks
         $string = 'Text with, no container marks';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<', '>']]);
+        $result = $this->splitSpecial($string, ',', [['<', '>']]);
 
         $expected = [
             'Text with',
@@ -93,7 +93,7 @@ class HelperFunctionsTest extends TestCase
     public function testSplitSpecialEdgeCase()
     {
         $string = 'Text with <,> no container marks edge case,';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<', '>']]);
+        $result = $this->splitSpecial($string, ',', [['<', '>']]);
 
         $expected = [
             'Text with <,> no container marks edge case',
@@ -106,7 +106,7 @@ class HelperFunctionsTest extends TestCase
     public function testSplitSpecialWithMultiContainerMarkers()
     {
         $string = 'Text with <some, tags> and, some {other, tags} test';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<', '>'], ['{', '}']]);
+        $result = $this->splitSpecial($string, ',', [['<', '>'], ['{', '}']]);
 
         $expected = [
             'Text with <some, tags> and',
@@ -119,7 +119,7 @@ class HelperFunctionsTest extends TestCase
     public function testSplitSpecialChainedContainerMarks()
     {
         $string = 'Text with <{some, tags}> and, some other, tags test';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<{', '}>'], ['{<', '>}']]);
+        $result = $this->splitSpecial($string, ',', [['<{', '}>'], ['{<', '>}']]);
 
         $expected = [
             'Text with <{some, tags}> and',
@@ -133,7 +133,7 @@ class HelperFunctionsTest extends TestCase
     public function testSplitSpecialWithUTF8()
     {
         $string = 'Text with <{someä, tags}> änd, some öther, tags test';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<{', '}>'], ['{<', '>}']]);
+        $result = $this->splitSpecial($string, ',', [['<{', '}>'], ['{<', '>}']]);
 
         $expected = [
             'Text with <{someä, tags}> änd',
@@ -148,7 +148,7 @@ class HelperFunctionsTest extends TestCase
     public function testSplitMatchReturnsArrayWithString()
     {
         $string = 'Text without tags test';
-        $result = $this->traitObject->splitSpecial($string, ',', [['<', '>']]);
+        $result = $this->splitSpecial($string, ',', [['<', '>']]);
 
         $expected = [
             'Text without tags test'

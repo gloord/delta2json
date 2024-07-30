@@ -13,7 +13,7 @@ class ItemTest extends TestCase
      */
     protected $itemInstance;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->itemInstance = new Item();
     }

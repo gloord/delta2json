@@ -125,9 +125,9 @@ class Character implements \JsonSerializable
     }
 
     /**
-     * @return array|mixed
+     * @return mixed
      */
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return [
             'characterId' => $this->getCharacterId(),

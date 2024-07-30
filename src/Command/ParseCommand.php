@@ -45,9 +45,9 @@ class ParseCommand extends SymfonyConsoleCommand
     /**
      * @param InputInterface $input
      * @param OutputInterface $output
-     * @return int|null|void
+     * @return int
      */
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $formatter = $this->getHelper('formatter');
 
@@ -55,11 +55,13 @@ class ParseCommand extends SymfonyConsoleCommand
             $this->readSpecs($input, $output);
             $this->readCharacters($input, $output);
             $this->readItems($input, $output);
+            return 0;
         } catch (\Exception $e) {
             $formattedBlock = $formatter->formatBlock($e->getMessage(), 'error');
             $output->writeln([
                 $formattedBlock,
             ]);
+            return 1;
         }
     }
 

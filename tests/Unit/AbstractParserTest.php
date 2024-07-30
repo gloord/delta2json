@@ -2,7 +2,7 @@
 
 namespace Tests\Unit;
 
-
+use Gloord\DeltaParser\Parser\CharacterParser;
 use Gloord\DeltaParser\Parser\DeltaSpecs;
 use Gloord\DeltaParser\Parser\Parser;
 use PHPUnit\Framework\TestCase;
@@ -10,19 +10,14 @@ use PHPUnit\Framework\TestCase;
 class AbstractParserTest extends TestCase
 {
     /**
-     * @var DeltaSpecs
+     * @var CharacterParser
      */
     protected $mockedInstance;
 
 
-    protected function setUp()
+    protected function setUp(): void
     {
-       $this->mockedInstance = $this->getMockBuilder(Parser::class)
-           ->setConstructorArgs([
-               $this->getMockBuilder(DeltaSpecs::class)->setConstructorArgs([[]])->getMock()
-           ])
-           ->getMockForAbstractClass();
-
+        $this->mockedInstance = new CharacterParser(new DeltaSpecs([]));
     }
 
     public function testReplaceMarkup()
